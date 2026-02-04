@@ -1,7 +1,2 @@
 # toy_ds_project
-in class demo for version control
-
--demo pen tool
-
-
-nihao
+project creation date: 2026/2/4
